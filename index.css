@@ -1,0 +1,51 @@
+html {
+background-image: url(https://images.pexels.com/photos/556662/pexels-photo-556662.jpeg?cs=srgb&dl=pexels-luizclas-556662.jpg&fm=jpg);
+background-size: cover;  
+font-family: 'Potta One',
+    cursive;
+}
+
+
+h1{
+ font-size: 100px;
+  text-align: center;
+  line-height: 4em;
+  color:rgba(197, 69, 148, 0.63);
+  text-shadow: #fffbfd 10px -10px 3px;
+  text-transform: uppercase;
+}
+h2{
+ text-align: center;
+ color: salmon;
+ font-size: 50px;
+}
+p{
+    display: inline-block;
+     border: 2px solid hotpink;
+     display: inline-block;
+     height: 600px;
+     width: 600px;
+    background-color: rgba(250, 128, 114, 0.322);
+    margin: 30px;
+    padding: 50px;
+
+
+}
+.p1{
+    justify-content: center;
+}
+main {
+    justify-content: center;
+}
+.navbar{
+      display: inline-block;
+      border: 2px solid hotpink;
+      display: inline-block;
+      height: 70px;
+      width: 800px;
+      background-color: rgba(250, 128, 114, 0.322);
+      margin: 20px;
+      padding: 50px;
+
+
+}
